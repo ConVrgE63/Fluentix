@@ -28,6 +28,7 @@ const Alert = ({ title, iconUrl }: PermissionCardProps) => {
               <Link href="/">Back to Home</Link>
             </Button>
           </div>
+          {/* converge */}
         </CardContent>
       </Card>
     </section>
